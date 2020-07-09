@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="resident-ffs-min-png24" size="1.000000 0.618834" />
+    <ImageTarget name="manufacturing-ffs-min-png24" size="1.000000 0.602544" />
+    <ImageTarget name="expatriate-ffs-min-png24" size="1.000000 0.610738" />
+    <ImageTarget name="resident-resized-png24" size="1.000000 0.669922" />
+    <ImageTarget name="expatriate-resized-png24" size="1.000000 0.622018" />
+    <ImageTarget name="testerrrrr-resized-rotated-png24" size="1.000000 0.630747" />
+    <ImageTarget name="expatriate" size="1.000000 0.605505" />
+    <ImageTarget name="resident" size="1.000000 0.622463" />
+    <ImageTarget name="6-manufacturing" size="1.000000 0.619608" />
+    <ImageTarget name="5-agriculture" size="1.000000 0.635753" />
+    <ImageTarget name="4-plantation" size="1.000000 0.634014" />
+    <ImageTarget name="3-construction" size="1.000000 0.627286" />
+    <ImageTarget name="2-services" size="1.000000 0.629360" />
+    <ImageTarget name="1-maid" size="1.000000 0.637854" />
+  </Tracking>
+</QCARConfig>
